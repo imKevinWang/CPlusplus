@@ -9,6 +9,7 @@
 // 样例输出
 // 1
 
+
 #include <iostream>
 using namespace std;
 int main()
